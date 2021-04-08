@@ -1,1 +1,2 @@
 this is a new version file in another repository
+this is a new line to test poll scm
